@@ -1,4 +1,4 @@
-# 读书如抽丝
+# 對岸推薦閱讀清單
 
 ## 私人阅读
 * [推荐书单](https://github.com/luozhaohui/books/blob/master/reading/booklist.md)
